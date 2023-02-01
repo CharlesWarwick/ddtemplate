@@ -1,2 +1,2 @@
 # ddtemplate
-A basic template
+A basic template for DD Elements
